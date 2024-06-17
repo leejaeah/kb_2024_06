@@ -551,7 +551,7 @@ html {
   
   .top_banner_box_6_wrap {
       height: 750px;
-      background: #fff url(/img/home_map.png) no-repeat -12% 50%;
+      background: #fff url(./img/home_map.png) no-repeat -12% 50%;
   }
   
   .top_banner_box_6 .img-box {
